@@ -1,0 +1,41 @@
+.reveal .whoAmI {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+}
+
+.reveal .whoAmI p {
+	margin: 0;
+}
+
+.reveal .whoAmI a {
+	color: #BB66BB;
+}
+
+.reveal .whoAmI a:hover {
+	color: #FFAAFF;
+}
+
+.reveal .positive {
+	color: #2288FF;
+}
+
+.reveal .negative {
+	color: #FF3333;
+}
+
+.reveal .strikeThrough {
+	text-decoration: line-through;
+}
+
+.reveal .hardSkill {
+	background-color: #881144;
+}
+
+/* Fonts */
+.reveal .cursiveFont {
+	font-family: 'Dancing Script', cursive;
+}
+.reveal .thinkAboutItFont {
+	font-family: 'Londrina Sketch', cursive;
+}
